@@ -45,7 +45,13 @@ assignment-2/
     - Provide continuous user feedback during data loading and when data fails to fetch.
     - Provide buttons to navigate to the GitHub profile and individual repository links.   
 
-# Features
+# Features/ Functionality
+- Greating based on time (Morning/ afternoon/ evening).
+- Navigate to sections by choosing from tabs.
+- Expand content on hover.
+- Diaplay owner Github account (API).
+- A loading indicator when fetching data from API. 
+- Error messages for invalid or empty form inputs.
 - Smooth scrolling.
 - Interactive skill/project cards.
 - Responsive layout.
